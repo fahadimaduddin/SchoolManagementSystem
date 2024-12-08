@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManager", "StudentManager\StudentManager.csproj", "{C89F4D01-F44C-4E86-8E79-6BA9D1882B36}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FahadDBFramework", "FahadDBFramework\FahadDBFramework.csproj", "{0FB716DB-E3A9-4379-8CEB-2A635F402E44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C89F4D01-F44C-4E86-8E79-6BA9D1882B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89F4D01-F44C-4E86-8E79-6BA9D1882B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89F4D01-F44C-4E86-8E79-6BA9D1882B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89F4D01-F44C-4E86-8E79-6BA9D1882B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FB716DB-E3A9-4379-8CEB-2A635F402E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB716DB-E3A9-4379-8CEB-2A635F402E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB716DB-E3A9-4379-8CEB-2A635F402E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB716DB-E3A9-4379-8CEB-2A635F402E44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CB37E5B-0EC9-4228-B4C8-16A969F2E676}
+	EndGlobalSection
+EndGlobal
